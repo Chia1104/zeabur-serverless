@@ -2,5 +2,8 @@
   "name": "zeabur-serverless",
   "scripts": {
     "build": "echo \"No need to build\""
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.7"
   }
 }
