@@ -1,0 +1,6 @@
+{
+  "name": "zeabur-serverless",
+  "scripts": {
+    "build": "echo \"No need to build\""
+  }
+}
